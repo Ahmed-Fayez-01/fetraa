@@ -1,0 +1,24 @@
+{
+  "onBoardingTitle0": "احصل على نظام غذائي للصيام المتقطع",
+  "onBoardingTitle1": "تأكيد الطلب وتتبعه",
+  "onBoardingTitle2": "الدفع عند التسليم",
+  "emailValidationSyntaxText": "البريد الالكتروني غير صحيح",
+
+  "rePasswordHintText": "confirm password",
+  "ValidationEmptyText": "يجب ادخال كلمة المرور",
+  "notIdenticalText": "كلمتا السر غير متطابقتين",
+  "forgetPasswordText": "هل نسيت كلمه المرور ؟",
+  "signup": "انشاء حساب",
+  "signin": "سجل",
+  "have_account": "لديك حساب بالفعل ؟ ",
+  "dont_have_account": "ليس لديك حساب ؟ ",
+  "create_account": "انشاء حساب جديد",
+  "male": "ذكر",
+  "female": "انثي",
+  "okay": "حسنا",
+  "connection_msg": "من فضلك, تحقق من اتصالك بالإنترنت وحاول مرة أخرى.",
+  "home": "الرئيسية",
+  "language": "اللغة",
+  "signout": "تسجيل الخروج",
+  "email": "البريد الالكتروني"
+}

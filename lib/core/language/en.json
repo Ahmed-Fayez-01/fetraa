@@ -1,0 +1,25 @@
+{
+  "onBoardingTitle0": "Get the look system for intermittent fasting",
+  "onBoardingTitle1": "Order Confirmation and Tracking",
+  "onBoardingTitle2": "Pay on Delivery",
+  "emailValidationSyntaxText": "Email not valid",
+
+  "rePasswordHintText": "confirm password",
+  "ValidationEmptyText": "Field Must not be Empty",
+  "notIdenticalText": "two password not identical",
+  "forgetPasswordText": "Forget Password ?",
+  "signup": "Sign Up",
+  "signin": "Sign In",
+  "have_account": "already have an account?",
+  "dont_have_account": "Don’t have an account?",
+  "create_account": "Create New Account",
+  "male": "Male",
+  "female": "Female",
+  "connection_msg": "please, check your internet connection and try again.",
+  "home": "Home",
+  "language": "Language",
+  "signout": "SignOut",
+  "email": "Email"
+
+
+}
